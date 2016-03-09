@@ -1,0 +1,5 @@
+git init	建立仓库
+git add		添加文件	Example:git add Readme.txt
+git submit -m "*"	提交文件，-m表示修改说明（message么？）	Example:git submit -m "修改LoginAction"
+git status	查看仓库当前状态
+git diff	查看文件变化的不同之处（difference）
