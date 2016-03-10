@@ -9,3 +9,4 @@ git reset	版本回退	Example：git resset --hard HEAD^
 			指定回到哪个版本 git reset --hard *(版本号--输入前几位即可)
 git reflog	查看历史操作记录
 pwd			显示当前路径
+rm			删除文件
