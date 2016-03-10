@@ -10,3 +10,6 @@ git reset	版本回退	Example：git resset --hard HEAD^
 git reflog	查看历史操作记录
 pwd			显示当前路径
 rm			删除文件
+ll			显示当前目录下文件列表
+ls			查看当前目录下文件名
+mkdir		创建目录
